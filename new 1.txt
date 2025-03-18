@@ -1,0 +1,5 @@
+var instr
+do
+instr =proi\upt ("dose onoma")
+while(inst == "");
+alert ("to onomasas einai"tinstr);
